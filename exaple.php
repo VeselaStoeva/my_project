@@ -1,2 +1,2 @@
 <?php
-echo "This is some initial content.";
+echo "This is a new feature.";
